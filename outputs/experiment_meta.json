@@ -1,0 +1,45 @@
+{
+  "generated_at": "2026-03-25T00:00:00+00:00",
+  "mode": "mock",
+  "num_runs": 10,
+  "num_prompts": 50,
+  "models": {
+    "gpt": "openai/gpt-5.4-20260305",
+    "minimax": "minimax/minimax-m2.7",
+    "qwen": "qwen/qwen3.5-397b-a17b"
+  },
+  "model_stats": {
+    "gpt": {
+      "n": 50,
+      "mean": 0.133458,
+      "std": 0.118028,
+      "min": 0.0,
+      "max": 0.2949,
+      "median": 0.187,
+      "ci_95_low": 0.100742,
+      "ci_95_high": 0.166174
+    },
+    "minimax": {
+      "n": 50,
+      "mean": 0.046702,
+      "std": 0.039552,
+      "min": 0.0,
+      "max": 0.1194,
+      "median": 0.0522,
+      "ci_95_low": 0.035739,
+      "ci_95_high": 0.057665
+    },
+    "qwen": {
+      "n": 50,
+      "mean": 0.025848,
+      "std": 0.020149,
+      "min": 0.0,
+      "max": 0.0599,
+      "median": 0.02455,
+      "ci_95_low": 0.020263,
+      "ci_95_high": 0.031433
+    }
+  },
+  "semantic_variance": {},
+  "cross_model_divergence": {}
+}

@@ -1,0 +1,151 @@
+model,prompt_idx,prompt_text,levenshtein_variance
+gpt,1,What is the capital of France?,0.0
+gpt,2,Explain the concept of entropy in thermodynamics.,0.2567
+gpt,3,Write a haiku about the ocean.,0.0
+gpt,4,What is 17 multiplied by 23?,0.183
+gpt,5,Describe the water cycle in two sentences.,0.0
+gpt,6,What is the difference between a virus and a bacterium?,0.213
+gpt,7,Name three primary colors.,0.0
+gpt,8,Explain recursion to a 10-year-old.,0.0
+gpt,9,What is the Pythagorean theorem?,0.2068
+gpt,10,Who wrote the play Hamlet?,0.0
+gpt,11,What is photosynthesis?,0.2684
+gpt,12,Define machine learning in one sentence.,0.0
+gpt,13,What is the speed of light in a vacuum?,0.0
+gpt,14,List the first five prime numbers.,0.0
+gpt,15,What is the boiling point of water at sea level?,0.2612
+gpt,16,Explain what DNA stands for.,0.0
+gpt,17,What year did World War II end?,0.0
+gpt,18,What is Newton's first law of motion?,0.2871
+gpt,19,Describe the function of the mitochondria.,0.0
+gpt,20,What is the largest planet in our solar system?,0.1904
+gpt,21,What is the chemical formula for water?,0.0
+gpt,22,Explain the concept of gravity briefly.,0.2306
+gpt,23,What is the square root of 144?,0.0
+gpt,24,Who painted the Mona Lisa?,0.0
+gpt,25,What does CPU stand for?,0.1836
+gpt,26,Explain what a black hole is.,0.0
+gpt,27,What is the Fibonacci sequence?,0.2062
+gpt,28,What is the difference between weather and climate?,0.0
+gpt,29,Name the four fundamental forces of nature.,0.2406
+gpt,30,What is Ohm's law?,0.1832
+gpt,31,Explain what an algorithm is.,0.2039
+gpt,32,What is the distance from Earth to the Moon approximately?,0.258
+gpt,33,Who discovered penicillin?,0.0
+gpt,34,What is the greenhouse effect?,0.2454
+gpt,35,Explain what inflation means in economics.,0.2065
+gpt,36,What is a neural network?,0.2507
+gpt,37,What are the three states of matter?,0.2771
+gpt,38,Who wrote 'A Brief History of Time'?,0.1808
+gpt,39,What is the human genome?,0.0
+gpt,40,Explain what blockchain technology is.,0.2767
+gpt,41,What is the theory of relativity?,0.2638
+gpt,42,What is a prime number?,0.2208
+gpt,43,Describe what an API is.,0.1987
+gpt,44,What is the periodic table?,0.0
+gpt,45,Who invented the telephone?,0.2949
+gpt,46,What is quantum mechanics?,0.2204
+gpt,47,Explain what a derivative is in calculus.,0.1911
+gpt,48,What is the Big Bang theory?,0.1916
+gpt,49,What does RAM stand for in computing?,0.2817
+gpt,50,Explain what open source software means.,0.0
+minimax,1,What is the capital of France?,0.0
+minimax,2,Explain the concept of entropy in thermodynamics.,0.0962
+minimax,3,Write a haiku about the ocean.,0.0604
+minimax,4,What is 17 multiplied by 23?,0.0
+minimax,5,Describe the water cycle in two sentences.,0.0565
+minimax,6,What is the difference between a virus and a bacterium?,0.0922
+minimax,7,Name three primary colors.,0.0
+minimax,8,Explain recursion to a 10-year-old.,0.0687
+minimax,9,What is the Pythagorean theorem?,0.0827
+minimax,10,Who wrote the play Hamlet?,0.0
+minimax,11,What is photosynthesis?,0.0931
+minimax,12,Define machine learning in one sentence.,0.0615
+minimax,13,What is the speed of light in a vacuum?,0.0
+minimax,14,List the first five prime numbers.,0.0509
+minimax,15,What is the boiling point of water at sea level?,0.1117
+minimax,16,Explain what DNA stands for.,0.0
+minimax,17,What year did World War II end?,0.0489
+minimax,18,What is Newton's first law of motion?,0.1023
+minimax,19,Describe the function of the mitochondria.,0.0
+minimax,20,What is the largest planet in our solar system?,0.0627
+minimax,21,What is the chemical formula for water?,0.0314
+minimax,22,Explain the concept of gravity briefly.,0.0
+minimax,23,What is the square root of 144?,0.0345
+minimax,24,Who painted the Mona Lisa?,0.024
+minimax,25,What does CPU stand for?,0.0
+minimax,26,Explain what a black hole is.,0.0316
+minimax,27,What is the Fibonacci sequence?,0.0661
+minimax,28,What is the difference between weather and climate?,0.0
+minimax,29,Name the four fundamental forces of nature.,0.0767
+minimax,30,What is Ohm's law?,0.0981
+minimax,31,Explain what an algorithm is.,0.0
+minimax,32,What is the distance from Earth to the Moon approximately?,0.0819
+minimax,33,Who discovered penicillin?,0.0385
+minimax,34,What is the greenhouse effect?,0.0
+minimax,35,Explain what inflation means in economics.,0.0726
+minimax,36,What is a neural network?,0.076
+minimax,37,What are the three states of matter?,0.0
+minimax,38,Who wrote 'A Brief History of Time'?,0.1162
+minimax,39,What is the human genome?,0.0524
+minimax,40,Explain what blockchain technology is.,0.0
+minimax,41,What is the theory of relativity?,0.0965
+minimax,42,What is a prime number?,0.0703
+minimax,43,Describe what an API is.,0.0
+minimax,44,What is the periodic table?,0.0565
+minimax,45,Who invented the telephone?,0.0698
+minimax,46,What is quantum mechanics?,0.0
+minimax,47,Explain what a derivative is in calculus.,0.0828
+minimax,48,What is the Big Bang theory?,0.1194
+minimax,49,What does RAM stand for in computing?,0.0
+minimax,50,Explain what open source software means.,0.052
+qwen,1,What is the capital of France?,0.0
+qwen,2,Explain the concept of entropy in thermodynamics.,0.0378
+qwen,3,Write a haiku about the ocean.,0.0442
+qwen,4,What is 17 multiplied by 23?,0.0521
+qwen,5,Describe the water cycle in two sentences.,0.0
+qwen,6,What is the difference between a virus and a bacterium?,0.0488
+qwen,7,Name three primary colors.,0.0215
+qwen,8,Explain recursion to a 10-year-old.,0.0116
+qwen,9,What is the Pythagorean theorem?,0.0
+qwen,10,Who wrote the play Hamlet?,0.0258
+qwen,11,What is photosynthesis?,0.0234
+qwen,12,Define machine learning in one sentence.,0.0205
+qwen,13,What is the speed of light in a vacuum?,0.0
+qwen,14,List the first five prime numbers.,0.0571
+qwen,15,What is the boiling point of water at sea level?,0.0538
+qwen,16,Explain what DNA stands for.,0.0257
+qwen,17,What year did World War II end?,0.0
+qwen,18,What is Newton's first law of motion?,0.0428
+qwen,19,Describe the function of the mitochondria.,0.0298
+qwen,20,What is the largest planet in our solar system?,0.0557
+qwen,21,What is the chemical formula for water?,0.0
+qwen,22,Explain the concept of gravity briefly.,0.0329
+qwen,23,What is the square root of 144?,0.0232
+qwen,24,Who painted the Mona Lisa?,0.0223
+qwen,25,What does CPU stand for?,0.0
+qwen,26,Explain what a black hole is.,0.0381
+qwen,27,What is the Fibonacci sequence?,0.0231
+qwen,28,What is the difference between weather and climate?,0.0392
+qwen,29,Name the four fundamental forces of nature.,0.0
+qwen,30,What is Ohm's law?,0.0549
+qwen,31,Explain what an algorithm is.,0.03
+qwen,32,What is the distance from Earth to the Moon approximately?,0.021
+qwen,33,Who discovered penicillin?,0.0
+qwen,34,What is the greenhouse effect?,0.0599
+qwen,35,Explain what inflation means in economics.,0.0355
+qwen,36,What is a neural network?,0.0145
+qwen,37,What are the three states of matter?,0.0
+qwen,38,Who wrote 'A Brief History of Time'?,0.0124
+qwen,39,What is the human genome?,0.0155
+qwen,40,Explain what blockchain technology is.,0.0414
+qwen,41,What is the theory of relativity?,0.0
+qwen,42,What is a prime number?,0.0496
+qwen,43,Describe what an API is.,0.0311
+qwen,44,What is the periodic table?,0.0132
+qwen,45,Who invented the telephone?,0.0
+qwen,46,What is quantum mechanics?,0.0291
+qwen,47,Explain what a derivative is in calculus.,0.0598
+qwen,48,What is the Big Bang theory?,0.0365
+qwen,49,What does RAM stand for in computing?,0.0
+qwen,50,Explain what open source software means.,0.0586

@@ -1,0 +1,140 @@
+{
+  "gpt": {
+    "0": [
+      "The answer is entropy. This is a well-known fact in physics.",
+      "The answer is entropy. This is a well-known fact in physics.",
+      "The answer is entropy. This is a well-known fact in physics.",
+      "The answer is entropy. This is a well-known fact in physics.",
+      "The answer is entropy. This is a well-known fact in physics.",
+      "The answer is entropy. This is a well-known fact in physics.",
+      "The answer is entropy. This is a well-known fact in physics.",
+      "The answer is entropy. This is a well-known fact in physics.",
+      "The answer is entropy. This is a well-known fact in physics.",
+      "The answer is entropy. This is a well-known fact in physics."
+    ],
+    "1": [
+      "entropy refers to the concept of physics in scientific literature.",
+      "DNA can be described as chemistry in the context of science. Further reading available.",
+      "Most textbooks define an algorithm as number theory.",
+      "physics \u2014 that is what entropy fundamentally represents.",
+      "entropy refers to the concept of physics in scientific literature.",
+      "momentum: statistics.",
+      "According to standard definitions, recursion is calculus.",
+      "Most textbooks define an algorithm as number theory.",
+      "In essence, gravity is defined as biology by most authorities.",
+      "The term velocity is broadly understood as quantum mechanics. This is widely accepted."
+    ],
+    "2": [
+      "The answer is photosynthesis. This is a well-known fact in biology.",
+      "The answer is photosynthesis. This is a well-known fact in biology.",
+      "The answer is photosynthesis. This is a well-known fact in biology.",
+      "The answer is photosynthesis. This is a well-known fact in biology.",
+      "The answer is photosynthesis. This is a well-known fact in biology.",
+      "The answer is photosynthesis. This is a well-known fact in biology.",
+      "The answer is photosynthesis. This is a well-known fact in biology.",
+      "The answer is photosynthesis. This is a well-known fact in biology.",
+      "The answer is photosynthesis. This is a well-known fact in biology.",
+      "The answer is photosynthesis. This is a well-known fact in biology."
+    ],
+    "3": [
+      "recursion refers to the concept of computer science in scientific literature.",
+      "Simply put, gravity describes chemistry.",
+      "The term DNA is broadly understood as mathematics. This is widely accepted.",
+      "recursion refers to the concept of computer science in scientific literature.",
+      "Most textbooks define an algorithm as number theory. See also related concepts.",
+      "physics \u2014 that is what entropy fundamentally represents.",
+      "The answer is momentum. This is a well-known fact in calculus.",
+      "recursion refers to the concept of computer science in scientific literature.",
+      "In essence, velocity is defined as statistics by most authorities.",
+      "Simply put, gravity describes chemistry."
+    ],
+    "4": [
+      "The answer is recursion. This is a well-known fact in computer science.",
+      "The answer is recursion. This is a well-known fact in computer science.",
+      "The answer is recursion. This is a well-known fact in computer science.",
+      "The answer is recursion. This is a well-known fact in computer science.",
+      "The answer is recursion. This is a well-known fact in computer science.",
+      "The answer is recursion. This is a well-known fact in computer science.",
+      "The answer is recursion. This is a well-known fact in computer science.",
+      "The answer is recursion. This is a well-known fact in computer science.",
+      "The answer is recursion. This is a well-known fact in computer science.",
+      "The answer is recursion. This is a well-known fact in computer science."
+    ]
+  },
+  "mistral": {
+    "0": [
+      "entropy refers to the concept of physics in scientific literature. Discovered in 1872.",
+      "The term entropy is broadly understood as physics.",
+      "entropy refers to the concept of physics in scientific literature.",
+      "entropy: physics. This is widely accepted.",
+      "entropy refers to the concept of physics in scientific literature. Discovered in 1904.",
+      "Most textbooks define entropy as physics.",
+      "entropy refers to the concept of physics in scientific literature.",
+      "Simply put, entropy describes physics.",
+      "In essence, entropy is defined as physics by most authorities.",
+      "entropy refers to the concept of physics in scientific literature. See also related concepts."
+    ],
+    "1": [
+      "The answer is recursion. This is a well-known fact in computer science.",
+      "The answer is recursion. This is a well-known fact in computer science.",
+      "The answer is recursion. This is a well-known fact in computer science.",
+      "The answer is recursion. This is a well-known fact in computer science.",
+      "The answer is recursion. This is a well-known fact in computer science.",
+      "The answer is recursion. This is a well-known fact in computer science.",
+      "The answer is recursion. This is a well-known fact in computer science.",
+      "The answer is recursion. This is a well-known fact in computer science.",
+      "The answer is recursion. This is a well-known fact in computer science.",
+      "The answer is recursion. This is a well-known fact in computer science."
+    ],
+    "2": [
+      "photosynthesis: biology.",
+      "photosynthesis: biology. Multiple interpretations exist.",
+      "photosynthesis: biology.",
+      "photosynthesis: biology.",
+      "photosynthesis: biology. See also related concepts.",
+      "photosynthesis: biology.",
+      "photosynthesis: biology.",
+      "photosynthesis: biology. Discovered in 1922.",
+      "photosynthesis: biology.",
+      "photosynthesis: biology."
+    ]
+  },
+  "qwen": {
+    "0": [
+      "The answer is gravity. This is a well-known fact in physics.",
+      "The answer is gravity. This is a well-known fact in physics.",
+      "The answer is gravity. This is a well-known fact in physics.",
+      "The answer is gravity. This is a well-known fact in physics.",
+      "The answer is gravity. This is a well-known fact in physics.",
+      "The answer is gravity. This is a well-known fact in physics.",
+      "The answer is gravity. This is a well-known fact in physics.",
+      "The answer is gravity. This is a well-known fact in physics.",
+      "The answer is gravity. This is a well-known fact in physics.",
+      "The answer is gravity. This is a well-known fact in physics."
+    ],
+    "1": [
+      "The answer is DNA. This is a well-known fact in molecular biology.",
+      "The answer is DNA. This is a well-known fact in molecular biology.",
+      "The answer is DNA. This is a well-known fact in molecular biology.",
+      "The answer is DNA. This is a well-known fact in molecular biology.",
+      "The answer is DNA. This is a well-known fact in molecular biology.",
+      "The answer is DNA. This is a well-known fact in molecular biology.",
+      "The answer is DNA. This is a well-known fact in molecular biology.",
+      "The answer is DNA. This is a well-known fact in molecular biology.",
+      "The answer is DNA. This is a well-known fact in molecular biology.",
+      "The answer is DNA. This is a well-known fact in molecular biology."
+    ],
+    "2": [
+      "biology \u2014 that is what photosynthesis fundamentally represents.",
+      "biology \u2014 that is what photosynthesis fundamentally represents. Discovered in 1953.",
+      "biology \u2014 that is what photosynthesis fundamentally represents.",
+      "biology \u2014 that is what photosynthesis fundamentally represents.",
+      "biology \u2014 that is what photosynthesis fundamentally represents. Multiple interpretations exist.",
+      "biology \u2014 that is what photosynthesis fundamentally represents.",
+      "biology \u2014 that is what photosynthesis fundamentally represents. See also related concepts.",
+      "biology \u2014 that is what photosynthesis fundamentally represents.",
+      "biology \u2014 that is what photosynthesis fundamentally represents.",
+      "biology \u2014 that is what photosynthesis fundamentally represents."
+    ]
+  }
+}
