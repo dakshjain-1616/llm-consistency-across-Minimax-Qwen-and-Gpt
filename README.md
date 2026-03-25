@@ -1,5 +1,5 @@
 # Consistency Heatmap — 50 prompts × 10 runs × 3 models
-> *Made autonomously using [NEO](https://heyneo.so) — your autonomous AI Agent · [![Install NEO](https://img.shields.io/badge/VS%%20Code-Install%%20NEO-7B61FF?logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=NeoResearchInc.heyneo)*
+> *Made autonomously using [NEO](https://heyneo.so) — your autonomous AI Agent · [![Install NEO](https://img.shields.io/badge/VS%20Code-Install%20NEO-7B61FF?logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=NeoResearchInc.heyneo)*
 
 Measures how **consistent** three frontier LLMs (Qwen3.5-397B, MiniMax M2.7, GPT-5.4) are when answering the same prompt multiple times. The tool sends **50 fixed seed prompts** to each model **10 times each** (1 500 total API calls), computes **normalized Levenshtein distance** between every pair of responses, and renders the scores as a color-coded heatmap PNG. This gives you a one-shot, cross-model **stability fingerprint** — showing which models are safe for deterministic pipelines and which ones drift.
 
